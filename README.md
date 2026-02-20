@@ -1,39 +1,25 @@
-Readme.md
+# Planejamento Estratégico
 
-# Integração Vertical e Horizontal
+O Planejamento Estratégico é um processo de gestão voltado para a definição de objetivos de longo prazo e das ações necessárias para alcançá-los. Ele utiliza informações provenientes das integrações vertical e horizontal para garantir decisões mais assertivas e alinhadas à realidade organizacional.
 
-Este relatório apresenta os conceitos de **Integração Vertical** e **Integração Horizontal**, abordados em aula, destacando suas definições, características e benefícios dentro do contexto organizacional e industrial.
+## Fundamentos do Planejamento
 
----
+### Direcionamento Estratégico
+Define os objetivos futuros da organização, estabelecendo metas claras e identificando os recursos necessários para sua execução.
 
-## Integração Vertical
+### Integração das Informações
+A integração vertical fornece dados operacionais dos níveis produtivos e gerenciais, enquanto a integração horizontal conecta setores como logística, vendas, fornecedores e clientes. Essa união permite uma visão ampla e sistêmica da empresa.
 
-A **Integração Vertical** diz respeito à articulação entre os diferentes níveis operacionais de uma organização, garantindo a conexão entre o **chão de fábrica** e as **instâncias estratégicas**.
+### Tomada de Decisão Baseada em Dados
+A utilização de informações integradas e atualizadas possibilita decisões mais rápidas, redução de riscos e maior controle sobre os processos internos.
 
-Essa integração abrange desde sensores e sistemas de controle até os níveis de gestão e estratégia, permitindo a circulação contínua das informações entre os setores.
+## Resultados Esperados
 
-### Principais benefícios da Integração Vertical:
-- Comunicação eficiente entre níveis operacionais e estratégicos  
-- Redução de atrasos informacionais  
-- Maior agilidade e precisão na tomada de decisões  
-- Suporte à tomada de decisão em tempo real  
+### Melhoria no Desempenho
+A organização passa a operar com processos mais estruturados, aumentando a produtividade e reduzindo falhas.
 
----
+### Vantagem Competitiva
+Com planejamento bem definido, a empresa responde com maior eficiência às mudanças do mercado.
 
-## Integração Horizontal
-
-A **Integração Horizontal** consiste na integração dos processos ao longo de toda a **cadeia de valor**, conectando fornecedores, produção, logística, distribuidores e clientes.
-
-Ela promove a colaboração entre áreas internas e agentes externos, garantindo um fluxo contínuo de informações entre os processos.
-
-### Características da Integração Horizontal:
-- Integra áreas internas e agentes externos da cadeia produtiva  
-- Promove o fluxo contínuo de informações entre processos  
-- Reduz conflitos entre departamentos  
-- Elimina silos organizacionais  
-
----
-
-## Conclusão
-
-A integração vertical e horizontal é essencial para organizações que buscam maior eficiência, agilidade e competitividade. Enquanto a integração vertical conecta os níveis operacionais à estratégia, a integração horizontal garante alinhamento e cooperação ao longo de toda a cadeia produtiva.
+### Crescimento Sustentável
+O uso de indicadores e métricas confiáveis contribui para um desenvolvimento consistente e alinhado aos objetivos estratégicos.
